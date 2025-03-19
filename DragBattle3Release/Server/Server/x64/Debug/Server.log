@@ -1,6 +1,7 @@
 ﻿  Server.cpp
-C:\Users\mensh\OneDrive\Desktop\DragBattle2\Server\Server\Server.cpp(30,75): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\mensh\OneDrive\Desktop\DragBattle2\Server\Server\Server.cpp(31,77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\mensh\OneDrive\Desktop\DragBattle2\Server\Server\Server.cpp(52,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\mensh\OneDrive\Desktop\DragBattle2\Server\Server\Server.cpp(153,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-  Server.vcxproj -> C:\Users\mensh\OneDrive\Desktop\DragBattle2\Server\x64\Debug\Server.exe
+C:\Users\mensh\OneDrive\Desktop\DragBattle-CS--main\DragBattle3Release\Server\Server\Server.cpp(30,75): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mensh\OneDrive\Desktop\DragBattle-CS--main\DragBattle3Release\Server\Server\Server.cpp(31,77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mensh\OneDrive\Desktop\DragBattle-CS--main\DragBattle3Release\Server\Server\Server.cpp(52,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\mensh\OneDrive\Desktop\DragBattle-CS--main\DragBattle3Release\Server\Server\Server.cpp(149,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\mensh\OneDrive\Desktop\DragBattle-CS--main\DragBattle3Release\Server\x64\Debug\Server.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Server.vcxproj -> C:\Users\mensh\OneDrive\Desktop\DragBattle-CS--main\DragBattle3Release\Server\x64\Debug\Server.exe

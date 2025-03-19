@@ -3,6 +3,7 @@
 #include <ws2tcpip.h>
 #include <windows.h>
 #include <iostream>
+#include <conio.h>
 #include <string>
 
 #pragma comment(lib, "ws2_32.lib")
@@ -167,6 +168,8 @@ int main() {
     closesocket(ListenSocket);
     WSACleanup();
 
-    std::cout << "The race is over!\n";
+    std::cout << "The race is over!\n" << "Press any key to close the server...\n";
+    _getch();
+
     return 0;
 }
