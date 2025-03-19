@@ -1,0 +1,7 @@
+﻿  Client.cpp
+C:\Users\mensh\OneDrive\Desktop\DragBattle3Release\Client\Client\Client.cpp(113,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 125 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Client.vcxproj -> C:\Users\mensh\OneDrive\Desktop\DragBattle3Release\Client\x64\Release\Client.exe

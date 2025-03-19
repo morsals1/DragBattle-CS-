@@ -1,0 +1,10 @@
+﻿  Server.cpp
+C:\Users\mensh\OneDrive\Desktop\DragBattle3Release\Server\Server\Server.cpp(30,75): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mensh\OneDrive\Desktop\DragBattle3Release\Server\Server\Server.cpp(31,77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mensh\OneDrive\Desktop\DragBattle3Release\Server\Server\Server.cpp(52,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\mensh\OneDrive\Desktop\DragBattle3Release\Server\Server\Server.cpp(149,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 97 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Server.vcxproj -> C:\Users\mensh\OneDrive\Desktop\DragBattle3Release\Server\x64\Release\Server.exe
